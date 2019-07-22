@@ -14,3 +14,15 @@ function makeButtons() {
         $('#buttonsView').append(a);
     }
 }
+
+$("#addShow").on("click", function() {
+
+
+    var show = $("#show-input").val().trim();
+
+    shows.push(show);
+
+    makeButtons();
+
+    return false;
+})
