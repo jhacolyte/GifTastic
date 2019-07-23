@@ -59,6 +59,7 @@ function displayGifs() {
     });
 
 
+
     $(document).on('click', '.gif', function() {
         var state = $(this).attr('data-state');
         if (state == 'still') {
