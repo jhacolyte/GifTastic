@@ -1,4 +1,4 @@
-var shows = ["Supernatural", "The Blacklist", "Stranger Things", "Big Bang Theory", "Game of Thrones", "Breaking Bad", "the 100", "Lucifer"];
+var shows = ["Supernatural", "West World", "The Blacklist", "Stranger Things", "Big Bang Theory", "Game of Thrones", "Breaking Bad", "the 100", "Lucifer", "The Walking Dead", "Sherlock"];
 
 
 function makeButtons() {
