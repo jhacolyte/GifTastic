@@ -71,8 +71,10 @@ function displayGifs() {
         };
     });
 
+}
 
-    $(document).on("click", ".show", displayGifs);
+
+$(document).on("click", ".show", displayGifs);
 
 
-    makeButtons();
+makeButtons();
